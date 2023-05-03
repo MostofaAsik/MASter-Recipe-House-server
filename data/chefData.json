@@ -1,0 +1,326 @@
+[
+    {
+        "ID": "1",
+        "ChefPicture": "https://www.eatthis.com/wp-content/uploads/sites/4/2020/05/chef-cooking.jpg?quality=82&strip=1",
+        "ChefName": "Emily Johnson",
+        "YearsOfExperience": 8,
+        "NumberOfRecipes": 150,
+        "Likes": 300,
+        "Description": "With 8 years of experience, Chef John Smith is a seasoned culinary expert. He has created 200 delectable recipes and garnered 500 likes for his delicious creations.",
+        "Recipes": [
+            {
+                "RecipeName": "Southern Fried Chicken",
+                "Ingredients": [
+                    "Chicken pieces",
+                    "Buttermilk",
+                    "Flour",
+                    "Salt",
+                    "Pepper",
+                    "Paprika",
+                    "Garlic powder",
+                    "Vegetable oil"
+                ],
+                "CookingMethod": "1. Place chicken pieces in a bowl and pour buttermilk over them. Let them marinate for at least 1 hour.\n2. In a separate bowl, mix together flour, salt, pepper, paprika, and garlic powder.\n3. Heat vegetable oil in a large skillet or deep fryer.\n4. Dredge each chicken piece in the flour mixture, shaking off excess, and place them in the hot oil.\n5. Fry the chicken pieces for about 15-18 minutes, until golden brown and cooked through.",
+                "Rating": 4.6
+            },
+            {
+                "RecipeName": "New York-Style Cheesecake",
+                "Ingredients": [
+                    "Graham cracker crumbs",
+                    "Butter",
+                    "Cream cheese",
+                    "Sugar",
+                    "Eggs",
+                    "Sour cream",
+                    "Vanilla extract"
+                ],
+                "CookingMethod": "1. Preheat the oven to 325°F (160°C).\n2. Mix graham cracker crumbs with melted butter and press the mixture into the bottom of a springform pan.\n3. In a large mixing bowl, beat cream cheese and sugar until smooth.\n4. Add eggs, one at a time, beating well after each addition.\n5. Mix in sour cream and vanilla extract.\n6. Pour the mixture over the crust in the springform pan.\n7. Bake the cheesecake for about 60-70 minutes, until the center is set.\n8. Allow the cheesecake to cool completely before refrigerating for at least 4 hours or overnight.\n9. Serve chilled and enjoy!",
+                "Rating": 4.9
+            },
+            {
+                "RecipeName": "New York-Style Cheesecake",
+                "Ingredients": [
+                    "Graham cracker crumbs",
+                    "Butter",
+                    "Cream cheese",
+                    "Sugar",
+                    "Eggs",
+                    "Sour cream",
+                    "Vanilla extract"
+                ],
+                "CookingMethod": "1. Preheat the oven to 325°F (160°C).\n2. Mix graham cracker crumbs with melted butter and press the mixture into the bottom of a springform pan.\n3. In a large mixing bowl, beat cream cheese and sugar until smooth.\n4. Add eggs, one at a time, beating well after each addition.\n5. Mix in sour cream and vanilla extract.\n6. Pour the mixture over the crust in the springform pan.\n7. Bake the cheesecake for about 60-70 minutes, until the center is set.\n8. Allow the cheesecake to cool completely before refrigerating for at least 4 hours or overnight.\n9. Serve chilled and enjoy!",
+                "Rating": 4.9
+            }
+        ]
+    },
+    {
+        "ID": "2",
+        "ChefPicture": "https://www.eatthis.com/wp-content/uploads/sites/4/2020/05/chef-cooking.jpg?quality=82&strip=1",
+        "ChefName": "Emily Johnson",
+        "YearsOfExperience": 8,
+        "NumberOfRecipes": 150,
+        "Likes": 300,
+        "Description": "With 8 years of experience, Chef John Smith is a seasoned culinary expert. He has created 200 delectable recipes and garnered 500 likes for his delicious creations.",
+        "Recipes": [
+            {
+                "RecipeName": "Southern Fried Chicken",
+                "Ingredients": [
+                    "Chicken pieces",
+                    "Buttermilk",
+                    "Flour",
+                    "Salt",
+                    "Pepper",
+                    "Paprika",
+                    "Garlic powder",
+                    "Vegetable oil"
+                ],
+                "CookingMethod": "1. Place chicken pieces in a bowl and pour buttermilk over them. Let them marinate for at least 1 hour.\n2. In a separate bowl, mix together flour, salt, pepper, paprika, and garlic powder.\n3. Heat vegetable oil in a large skillet or deep fryer.\n4. Dredge each chicken piece in the flour mixture, shaking off excess, and place them in the hot oil.\n5. Fry the chicken pieces for about 15-18 minutes, until golden brown and cooked through.",
+                "Rating": 4.6
+            },
+            {
+                "RecipeName": "New York-Style Cheesecake",
+                "Ingredients": [
+                    "Graham cracker crumbs",
+                    "Butter",
+                    "Cream cheese",
+                    "Sugar",
+                    "Eggs",
+                    "Sour cream",
+                    "Vanilla extract"
+                ],
+                "CookingMethod": "1. Preheat the oven to 325°F (160°C).\n2. Mix graham cracker crumbs with melted butter and press the mixture into the bottom of a springform pan.\n3. In a large mixing bowl, beat cream cheese and sugar until smooth.\n4. Add eggs, one at a time, beating well after each addition.\n5. Mix in sour cream and vanilla extract.\n6. Pour the mixture over the crust in the springform pan.\n7. Bake the cheesecake for about 60-70 minutes, until the center is set.\n8. Allow the cheesecake to cool completely before refrigerating for at least 4 hours or overnight.\n9. Serve chilled and enjoy!",
+                "Rating": 4.9
+            },
+            {
+                "RecipeName": "New York-Style Cheesecake",
+                "Ingredients": [
+                    "Graham cracker crumbs",
+                    "Butter",
+                    "Cream cheese",
+                    "Sugar",
+                    "Eggs",
+                    "Sour cream",
+                    "Vanilla extract"
+                ],
+                "CookingMethod": "1. Preheat the oven to 325°F (160°C).\n2. Mix graham cracker crumbs with melted butter and press the mixture into the bottom of a springform pan.\n3. In a large mixing bowl, beat cream cheese and sugar until smooth.\n4. Add eggs, one at a time, beating well after each addition.\n5. Mix in sour cream and vanilla extract.\n6. Pour the mixture over the crust in the springform pan.\n7. Bake the cheesecake for about 60-70 minutes, until the center is set.\n8. Allow the cheesecake to cool completely before refrigerating for at least 4 hours or overnight.\n9. Serve chilled and enjoy!",
+                "Rating": 4.9
+            }
+        ]
+    },
+    {
+        "ID": "3",
+        "ChefPicture": "https://www.eatthis.com/wp-content/uploads/sites/4/2020/05/chef-cooking.jpg?quality=82&strip=1",
+        "ChefName": "Emily Johnson",
+        "YearsOfExperience": 8,
+        "NumberOfRecipes": 150,
+        "Likes": 300,
+        "Description": "With 8 years of experience, Chef John Smith is a seasoned culinary expert. He has created 200 delectable recipes and garnered 500 likes for his delicious creations.",
+        "Recipes": [
+            {
+                "RecipeName": "Southern Fried Chicken",
+                "Ingredients": [
+                    "Chicken pieces",
+                    "Buttermilk",
+                    "Flour",
+                    "Salt",
+                    "Pepper",
+                    "Paprika",
+                    "Garlic powder",
+                    "Vegetable oil"
+                ],
+                "CookingMethod": "1. Place chicken pieces in a bowl and pour buttermilk over them. Let them marinate for at least 1 hour.\n2. In a separate bowl, mix together flour, salt, pepper, paprika, and garlic powder.\n3. Heat vegetable oil in a large skillet or deep fryer.\n4. Dredge each chicken piece in the flour mixture, shaking off excess, and place them in the hot oil.\n5. Fry the chicken pieces for about 15-18 minutes, until golden brown and cooked through.",
+                "Rating": 4.6
+            },
+            {
+                "RecipeName": "New York-Style Cheesecake",
+                "Ingredients": [
+                    "Graham cracker crumbs",
+                    "Butter",
+                    "Cream cheese",
+                    "Sugar",
+                    "Eggs",
+                    "Sour cream",
+                    "Vanilla extract"
+                ],
+                "CookingMethod": "1. Preheat the oven to 325°F (160°C).\n2. Mix graham cracker crumbs with melted butter and press the mixture into the bottom of a springform pan.\n3. In a large mixing bowl, beat cream cheese and sugar until smooth.\n4. Add eggs, one at a time, beating well after each addition.\n5. Mix in sour cream and vanilla extract.\n6. Pour the mixture over the crust in the springform pan.\n7. Bake the cheesecake for about 60-70 minutes, until the center is set.\n8. Allow the cheesecake to cool completely before refrigerating for at least 4 hours or overnight.\n9. Serve chilled and enjoy!",
+                "Rating": 4.9
+            },
+            {
+                "RecipeName": "New York-Style Cheesecake",
+                "Ingredients": [
+                    "Graham cracker crumbs",
+                    "Butter",
+                    "Cream cheese",
+                    "Sugar",
+                    "Eggs",
+                    "Sour cream",
+                    "Vanilla extract"
+                ],
+                "CookingMethod": "1. Preheat the oven to 325°F (160°C).\n2. Mix graham cracker crumbs with melted butter and press the mixture into the bottom of a springform pan.\n3. In a large mixing bowl, beat cream cheese and sugar until smooth.\n4. Add eggs, one at a time, beating well after each addition.\n5. Mix in sour cream and vanilla extract.\n6. Pour the mixture over the crust in the springform pan.\n7. Bake the cheesecake for about 60-70 minutes, until the center is set.\n8. Allow the cheesecake to cool completely before refrigerating for at least 4 hours or overnight.\n9. Serve chilled and enjoy!",
+                "Rating": 4.9
+            }
+        ]
+    },
+    {
+        "ID": "4",
+        "ChefPicture": "https://www.eatthis.com/wp-content/uploads/sites/4/2020/05/chef-cooking.jpg?quality=82&strip=1",
+        "ChefName": "Emily Johnson",
+        "YearsOfExperience": 8,
+        "NumberOfRecipes": 150,
+        "Likes": 300,
+        "Description": "With 8 years of experience, Chef John Smith is a seasoned culinary expert. He has created 200 delectable recipes and garnered 500 likes for his delicious creations.",
+        "Recipes": [
+            {
+                "RecipeName": "Southern Fried Chicken",
+                "Ingredients": [
+                    "Chicken pieces",
+                    "Buttermilk",
+                    "Flour",
+                    "Salt",
+                    "Pepper",
+                    "Paprika",
+                    "Garlic powder",
+                    "Vegetable oil"
+                ],
+                "CookingMethod": "1. Place chicken pieces in a bowl and pour buttermilk over them. Let them marinate for at least 1 hour.\n2. In a separate bowl, mix together flour, salt, pepper, paprika, and garlic powder.\n3. Heat vegetable oil in a large skillet or deep fryer.\n4. Dredge each chicken piece in the flour mixture, shaking off excess, and place them in the hot oil.\n5. Fry the chicken pieces for about 15-18 minutes, until golden brown and cooked through.",
+                "Rating": 4.6
+            },
+            {
+                "RecipeName": "New York-Style Cheesecake",
+                "Ingredients": [
+                    "Graham cracker crumbs",
+                    "Butter",
+                    "Cream cheese",
+                    "Sugar",
+                    "Eggs",
+                    "Sour cream",
+                    "Vanilla extract"
+                ],
+                "CookingMethod": "1. Preheat the oven to 325°F (160°C).\n2. Mix graham cracker crumbs with melted butter and press the mixture into the bottom of a springform pan.\n3. In a large mixing bowl, beat cream cheese and sugar until smooth.\n4. Add eggs, one at a time, beating well after each addition.\n5. Mix in sour cream and vanilla extract.\n6. Pour the mixture over the crust in the springform pan.\n7. Bake the cheesecake for about 60-70 minutes, until the center is set.\n8. Allow the cheesecake to cool completely before refrigerating for at least 4 hours or overnight.\n9. Serve chilled and enjoy!",
+                "Rating": 4.9
+            },
+            {
+                "RecipeName": "New York-Style Cheesecake",
+                "Ingredients": [
+                    "Graham cracker crumbs",
+                    "Butter",
+                    "Cream cheese",
+                    "Sugar",
+                    "Eggs",
+                    "Sour cream",
+                    "Vanilla extract"
+                ],
+                "CookingMethod": "1. Preheat the oven to 325°F (160°C).\n2. Mix graham cracker crumbs with melted butter and press the mixture into the bottom of a springform pan.\n3. In a large mixing bowl, beat cream cheese and sugar until smooth.\n4. Add eggs, one at a time, beating well after each addition.\n5. Mix in sour cream and vanilla extract.\n6. Pour the mixture over the crust in the springform pan.\n7. Bake the cheesecake for about 60-70 minutes, until the center is set.\n8. Allow the cheesecake to cool completely before refrigerating for at least 4 hours or overnight.\n9. Serve chilled and enjoy!",
+                "Rating": 4.9
+            }
+        ]
+    },
+    {
+        "ID": "5",
+        "ChefPicture": "https://www.eatthis.com/wp-content/uploads/sites/4/2020/05/chef-cooking.jpg?quality=82&strip=1",
+        "ChefName": "Emily Johnson",
+        "YearsOfExperience": 8,
+        "NumberOfRecipes": 150,
+        "Likes": 300,
+        "Description": "With 8 years of experience, Chef John Smith is a seasoned culinary expert. He has created 200 delectable recipes and garnered 500 likes for his delicious creations.",
+        "Recipes": [
+            {
+                "RecipeName": "Southern Fried Chicken",
+                "Ingredients": [
+                    "Chicken pieces",
+                    "Buttermilk",
+                    "Flour",
+                    "Salt",
+                    "Pepper",
+                    "Paprika",
+                    "Garlic powder",
+                    "Vegetable oil"
+                ],
+                "CookingMethod": "1. Place chicken pieces in a bowl and pour buttermilk over them. Let them marinate for at least 1 hour.\n2. In a separate bowl, mix together flour, salt, pepper, paprika, and garlic powder.\n3. Heat vegetable oil in a large skillet or deep fryer.\n4. Dredge each chicken piece in the flour mixture, shaking off excess, and place them in the hot oil.\n5. Fry the chicken pieces for about 15-18 minutes, until golden brown and cooked through.",
+                "Rating": 4.6
+            },
+            {
+                "RecipeName": "New York-Style Cheesecake",
+                "Ingredients": [
+                    "Graham cracker crumbs",
+                    "Butter",
+                    "Cream cheese",
+                    "Sugar",
+                    "Eggs",
+                    "Sour cream",
+                    "Vanilla extract"
+                ],
+                "CookingMethod": "1. Preheat the oven to 325°F (160°C).\n2. Mix graham cracker crumbs with melted butter and press the mixture into the bottom of a springform pan.\n3. In a large mixing bowl, beat cream cheese and sugar until smooth.\n4. Add eggs, one at a time, beating well after each addition.\n5. Mix in sour cream and vanilla extract.\n6. Pour the mixture over the crust in the springform pan.\n7. Bake the cheesecake for about 60-70 minutes, until the center is set.\n8. Allow the cheesecake to cool completely before refrigerating for at least 4 hours or overnight.\n9. Serve chilled and enjoy!",
+                "Rating": 4.9
+            },
+            {
+                "RecipeName": "New York-Style Cheesecake",
+                "Ingredients": [
+                    "Graham cracker crumbs",
+                    "Butter",
+                    "Cream cheese",
+                    "Sugar",
+                    "Eggs",
+                    "Sour cream",
+                    "Vanilla extract"
+                ],
+                "CookingMethod": "1. Preheat the oven to 325°F (160°C).\n2. Mix graham cracker crumbs with melted butter and press the mixture into the bottom of a springform pan.\n3. In a large mixing bowl, beat cream cheese and sugar until smooth.\n4. Add eggs, one at a time, beating well after each addition.\n5. Mix in sour cream and vanilla extract.\n6. Pour the mixture over the crust in the springform pan.\n7. Bake the cheesecake for about 60-70 minutes, until the center is set.\n8. Allow the cheesecake to cool completely before refrigerating for at least 4 hours or overnight.\n9. Serve chilled and enjoy!",
+                "Rating": 4.9
+            }
+        ]
+    },
+    {
+        "ID": "6",
+        "ChefPicture": "https://www.eatthis.com/wp-content/uploads/sites/4/2020/05/chef-cooking.jpg?quality=82&strip=1",
+        "ChefName": "Emily Johnson",
+        "YearsOfExperience": 8,
+        "NumberOfRecipes": 150,
+        "Likes": 300,
+        "Description": "With 8 years of experience, Chef John Smith is a seasoned culinary expert. He has created 200 delectable recipes and garnered 500 likes for his delicious creations.",
+        "Recipes": [
+            {
+                "RecipeName": "Southern Fried Chicken",
+                "Ingredients": [
+                    "Chicken pieces",
+                    "Buttermilk",
+                    "Flour",
+                    "Salt",
+                    "Pepper",
+                    "Paprika",
+                    "Garlic powder",
+                    "Vegetable oil"
+                ],
+                "CookingMethod": "1. Place chicken pieces in a bowl and pour buttermilk over them. Let them marinate for at least 1 hour.\n2. In a separate bowl, mix together flour, salt, pepper, paprika, and garlic powder.\n3. Heat vegetable oil in a large skillet or deep fryer.\n4. Dredge each chicken piece in the flour mixture, shaking off excess, and place them in the hot oil.\n5. Fry the chicken pieces for about 15-18 minutes, until golden brown and cooked through.",
+                "Rating": 4.6
+            },
+            {
+                "RecipeName": "New York-Style Cheesecake",
+                "Ingredients": [
+                    "Graham cracker crumbs",
+                    "Butter",
+                    "Cream cheese",
+                    "Sugar",
+                    "Eggs",
+                    "Sour cream",
+                    "Vanilla extract"
+                ],
+                "CookingMethod": "1. Preheat the oven to 325°F (160°C).\n2. Mix graham cracker crumbs with melted butter and press the mixture into the bottom of a springform pan.\n3. In a large mixing bowl, beat cream cheese and sugar until smooth.\n4. Add eggs, one at a time, beating well after each addition.\n5. Mix in sour cream and vanilla extract.\n6. Pour the mixture over the crust in the springform pan.\n7. Bake the cheesecake for about 60-70 minutes, until the center is set.\n8. Allow the cheesecake to cool completely before refrigerating for at least 4 hours or overnight.\n9. Serve chilled and enjoy!",
+                "Rating": 4.9
+            },
+            {
+                "RecipeName": "New York-Style Cheesecake",
+                "Ingredients": [
+                    "Graham cracker crumbs",
+                    "Butter",
+                    "Cream cheese",
+                    "Sugar",
+                    "Eggs",
+                    "Sour cream",
+                    "Vanilla extract"
+                ],
+                "CookingMethod": "1. Preheat the oven to 325°F (160°C).\n2. Mix graham cracker crumbs with melted butter and press the mixture into the bottom of a springform pan.\n3. In a large mixing bowl, beat cream cheese and sugar until smooth.\n4. Add eggs, one at a time, beating well after each addition.\n5. Mix in sour cream and vanilla extract.\n6. Pour the mixture over the crust in the springform pan.\n7. Bake the cheesecake for about 60-70 minutes, until the center is set.\n8. Allow the cheesecake to cool completely before refrigerating for at least 4 hours or overnight.\n9. Serve chilled and enjoy!",
+                "Rating": 4.9
+            }
+        ]
+    }
+]
