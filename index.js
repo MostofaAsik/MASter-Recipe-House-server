@@ -16,6 +16,13 @@ app.get('/chefdata', (req, res) => {
 
 })
 
+app.get('/chefdata/:id', (req, res) => {
+    const id = req.params.id;
+    console.log(id);
+    const allRecipe = chefdata.find(recipe => recipe.ID === id)
+    res.send(allRecipe)
+})
+
 app.listen(port, () => {
     console.log(`Chef Api is running on port: ${port}`);
 })

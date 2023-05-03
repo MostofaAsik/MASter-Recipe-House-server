@@ -1,7 +1,7 @@
 [
     {
         "ID": "1",
-        "ChefPicture": "https://www.eatthis.com/wp-content/uploads/sites/4/2020/05/chef-cooking.jpg?quality=82&strip=1",
+        "ChefPicture": "https://media.gettyimages.com/id/1186934176/photo/cook-serving-food-on-a-plate-in-the-kitchen-of-a-restaurant.jpg?s=612x612&w=0&k=20&c=Lh9sH4SRu0hWDfRWG5MO2imKGORPTL3skKTx8iw-0qA=",
         "ChefName": "Emily Johnson",
         "YearsOfExperience": 8,
         "NumberOfRecipes": 150,
@@ -10,6 +10,7 @@
         "Recipes": [
             {
                 "RecipeName": "Southern Fried Chicken",
+                "RecipeImage": "https://www.thecountrycook.net/wp-content/uploads/2021/02/first-image-Southern-Fried-Chicken-scaled.jpg",
                 "Ingredients": [
                     "Chicken pieces",
                     "Buttermilk",
@@ -25,6 +26,7 @@
             },
             {
                 "RecipeName": "New York-Style Cheesecake",
+                "RecipeImage": "https://www.thecountrycook.net/wp-content/uploads/2021/02/first-image-Southern-Fried-Chicken-scaled.jpg",
                 "Ingredients": [
                     "Graham cracker crumbs",
                     "Butter",
@@ -39,6 +41,7 @@
             },
             {
                 "RecipeName": "New York-Style Cheesecake",
+                "RecipeImage": "https://www.thecountrycook.net/wp-content/uploads/2021/02/first-image-Southern-Fried-Chicken-scaled.jpg",
                 "Ingredients": [
                     "Graham cracker crumbs",
                     "Butter",
@@ -55,7 +58,7 @@
     },
     {
         "ID": "2",
-        "ChefPicture": "https://www.eatthis.com/wp-content/uploads/sites/4/2020/05/chef-cooking.jpg?quality=82&strip=1",
+        "ChefPicture": "https://media.gettyimages.com/id/528758446/photo/chef-garnishing-a-meal.jpg?s=612x612&w=0&k=20&c=RGSPBc7hVp093s_0Ne-aIF9bOi-Vs9O5MKWVzTa8ZgE=",
         "ChefName": "Emily Johnson",
         "YearsOfExperience": 8,
         "NumberOfRecipes": 150,
@@ -64,6 +67,7 @@
         "Recipes": [
             {
                 "RecipeName": "Southern Fried Chicken",
+                "RecipeImage": "https://www.thecountrycook.net/wp-content/uploads/2021/02/first-image-Southern-Fried-Chicken-scaled.jpg",
                 "Ingredients": [
                     "Chicken pieces",
                     "Buttermilk",
@@ -79,6 +83,7 @@
             },
             {
                 "RecipeName": "New York-Style Cheesecake",
+                "RecipeImage": "https://www.thecountrycook.net/wp-content/uploads/2021/02/first-image-Southern-Fried-Chicken-scaled.jpg",
                 "Ingredients": [
                     "Graham cracker crumbs",
                     "Butter",
@@ -93,6 +98,7 @@
             },
             {
                 "RecipeName": "New York-Style Cheesecake",
+                "RecipeImage": "https://www.thecountrycook.net/wp-content/uploads/2021/02/first-image-Southern-Fried-Chicken-scaled.jpg",
                 "Ingredients": [
                     "Graham cracker crumbs",
                     "Butter",
@@ -109,7 +115,7 @@
     },
     {
         "ID": "3",
-        "ChefPicture": "https://www.eatthis.com/wp-content/uploads/sites/4/2020/05/chef-cooking.jpg?quality=82&strip=1",
+        "ChefPicture": "https://thumbs.dreamstime.com/b/cooking-food-positive-chef-man-gesturing-okay-standing-next-to-work-table-kitchen-indoor-selective-focus-positive-chef-man-169066070.jpg?fbclid=IwAR2rsSrOK-mugEaeHrtvyHMEDaISaUEo01zJmoWEhhtz0uP81ypCcA1a3LA",
         "ChefName": "Emily Johnson",
         "YearsOfExperience": 8,
         "NumberOfRecipes": 150,
@@ -118,6 +124,7 @@
         "Recipes": [
             {
                 "RecipeName": "Southern Fried Chicken",
+                "RecipeImage": "https://www.thecountrycook.net/wp-content/uploads/2021/02/first-image-Southern-Fried-Chicken-scaled.jpg",
                 "Ingredients": [
                     "Chicken pieces",
                     "Buttermilk",
@@ -133,6 +140,7 @@
             },
             {
                 "RecipeName": "New York-Style Cheesecake",
+                "RecipeImage": "https://www.thecountrycook.net/wp-content/uploads/2021/02/first-image-Southern-Fried-Chicken-scaled.jpg",
                 "Ingredients": [
                     "Graham cracker crumbs",
                     "Butter",
@@ -147,6 +155,7 @@
             },
             {
                 "RecipeName": "New York-Style Cheesecake",
+                "RecipeImage": "https://www.thecountrycook.net/wp-content/uploads/2021/02/first-image-Southern-Fried-Chicken-scaled.jpg",
                 "Ingredients": [
                     "Graham cracker crumbs",
                     "Butter",
@@ -163,7 +172,7 @@
     },
     {
         "ID": "4",
-        "ChefPicture": "https://www.eatthis.com/wp-content/uploads/sites/4/2020/05/chef-cooking.jpg?quality=82&strip=1",
+        "ChefPicture": "https://thumbs.dreamstime.com/b/happy-chef-portrait-man-cook-uniform-looking-camera-30954359.jpg?fbclid=IwAR34reS6CZhIHieeda6W3zB9pZWkdAvVAdyVeMNjCJ3WNLgoK-my9QuvyEQ",
         "ChefName": "Emily Johnson",
         "YearsOfExperience": 8,
         "NumberOfRecipes": 150,
@@ -172,6 +181,7 @@
         "Recipes": [
             {
                 "RecipeName": "Southern Fried Chicken",
+                "RecipeImage": "https://www.thecountrycook.net/wp-content/uploads/2021/02/first-image-Southern-Fried-Chicken-scaled.jpg",
                 "Ingredients": [
                     "Chicken pieces",
                     "Buttermilk",
@@ -187,6 +197,7 @@
             },
             {
                 "RecipeName": "New York-Style Cheesecake",
+                "RecipeImage": "https://www.thecountrycook.net/wp-content/uploads/2021/02/first-image-Southern-Fried-Chicken-scaled.jpg",
                 "Ingredients": [
                     "Graham cracker crumbs",
                     "Butter",
@@ -201,6 +212,7 @@
             },
             {
                 "RecipeName": "New York-Style Cheesecake",
+                "RecipeImage": "https://www.thecountrycook.net/wp-content/uploads/2021/02/first-image-Southern-Fried-Chicken-scaled.jpg",
                 "Ingredients": [
                     "Graham cracker crumbs",
                     "Butter",
@@ -217,7 +229,7 @@
     },
     {
         "ID": "5",
-        "ChefPicture": "https://www.eatthis.com/wp-content/uploads/sites/4/2020/05/chef-cooking.jpg?quality=82&strip=1",
+        "ChefPicture": "https://thumbs.dreamstime.com/b/smiling-male-chef-cook-baker-man-striped-apron-toque-chefs-hat-isolated-red-background-cooking-food-concept-mock-up-copy-190423130.jpg?fbclid=IwAR0_C_kGT8Qs69mYVY6sY3VP71q34p6B_Gse6D2oGqxSnrAyolWJKS3ch2s",
         "ChefName": "Emily Johnson",
         "YearsOfExperience": 8,
         "NumberOfRecipes": 150,
@@ -226,6 +238,7 @@
         "Recipes": [
             {
                 "RecipeName": "Southern Fried Chicken",
+                "RecipeImage": "https://www.thecountrycook.net/wp-content/uploads/2021/02/first-image-Southern-Fried-Chicken-scaled.jpg",
                 "Ingredients": [
                     "Chicken pieces",
                     "Buttermilk",
@@ -241,6 +254,7 @@
             },
             {
                 "RecipeName": "New York-Style Cheesecake",
+                "RecipeImage": "https://www.thecountrycook.net/wp-content/uploads/2021/02/first-image-Southern-Fried-Chicken-scaled.jpg",
                 "Ingredients": [
                     "Graham cracker crumbs",
                     "Butter",
@@ -255,6 +269,7 @@
             },
             {
                 "RecipeName": "New York-Style Cheesecake",
+                "RecipeImage": "https://www.thecountrycook.net/wp-content/uploads/2021/02/first-image-Southern-Fried-Chicken-scaled.jpg",
                 "Ingredients": [
                     "Graham cracker crumbs",
                     "Butter",
@@ -271,7 +286,7 @@
     },
     {
         "ID": "6",
-        "ChefPicture": "https://www.eatthis.com/wp-content/uploads/sites/4/2020/05/chef-cooking.jpg?quality=82&strip=1",
+        "ChefPicture": "https://media.gettyimages.com/id/877309726/photo/male-chef-garnishing-food-in-kitchen.jpg?s=612x612&w=0&k=20&c=U2wynKNuBJSd86sqyY3ivCT3EsqmllPe4k1cDwOgVLc=",
         "ChefName": "Emily Johnson",
         "YearsOfExperience": 8,
         "NumberOfRecipes": 150,
@@ -280,6 +295,7 @@
         "Recipes": [
             {
                 "RecipeName": "Southern Fried Chicken",
+                "RecipeImage": "https://www.thecountrycook.net/wp-content/uploads/2021/02/first-image-Southern-Fried-Chicken-scaled.jpg",
                 "Ingredients": [
                     "Chicken pieces",
                     "Buttermilk",
@@ -295,6 +311,7 @@
             },
             {
                 "RecipeName": "New York-Style Cheesecake",
+                "RecipeImage": "https://www.thecountrycook.net/wp-content/uploads/2021/02/first-image-Southern-Fried-Chicken-scaled.jpg",
                 "Ingredients": [
                     "Graham cracker crumbs",
                     "Butter",
@@ -309,6 +326,7 @@
             },
             {
                 "RecipeName": "New York-Style Cheesecake",
+                "RecipeImage": "https://www.thecountrycook.net/wp-content/uploads/2021/02/first-image-Southern-Fried-Chicken-scaled.jpg",
                 "Ingredients": [
                     "Graham cracker crumbs",
                     "Butter",
